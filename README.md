@@ -1,1 +1,1 @@
-# Layout do site 
+# Paleta de Cores-Layout
